@@ -1,6 +1,6 @@
 # Edward's ideas for LittleBigSnake.
 
-This document file was created as an idea dump by myself. I want to express my ideas in a manor that is readable, approachable, and understandable. By creating this markdown file, I had three goals in mind: inform the developers, educate the developer, and solute the developer. Anything I say should not be offensive, and if it is, I apologize in advice. In the most recent game updates, it can be inferred that LittleBigSnake is planning on an expansion. In order to expand as they hope, the developers must be aware that community is key. Currently, the developers do not recognize the community as a valuable asset in their growth and prosperity. 
+This document file was created as an idea dump by myself. I want to express my ideas in a manor that is readable, approachable, and understandable. By creating this markdown file, I had three goals in mind: inform the developers, educate the developers, and solute the developers. Anything I say should not be offensive, and if it is, I apologize in advice. In the most recent game updates, it can be inferred that LittleBigSnake is planning on an expansion. In order to expand as they hope, the developers must be aware that community is key. Currently, the developers do not recognize the community as a valuable asset in their growth and prosperity. 
 
 
 ## Discourse - A New Feedback Forum
