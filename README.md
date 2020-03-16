@@ -25,4 +25,4 @@ As of right now, UserReport is the official forum of LittleBigSnake. There are *
   I, along with other people, feel that LittleBigSnake's media profiles are seperate, and don't inner-conect. This makes it hard for users to navigate between pages, get information, etc.
   
   Thank you for reading,
-  Edward
+  Edward :)
